@@ -1,0 +1,98 @@
+{
+    "background": "bright",
+    "classes": [
+        "E.coli"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 1,
+            "width": 231,
+            "x": 948,
+            "y": 1141
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 2,
+            "width": 231,
+            "x": 1209,
+            "y": 1255
+        },
+        {
+            "class": "E.coli",
+            "height": 210,
+            "id": 3,
+            "width": 210,
+            "x": 1401,
+            "y": 1556
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 4,
+            "width": 231,
+            "x": 1699,
+            "y": 2169
+        },
+        {
+            "class": "E.coli",
+            "height": 254,
+            "id": 5,
+            "width": 254,
+            "x": 2191,
+            "y": 1403
+        },
+        {
+            "class": "E.coli",
+            "height": 222,
+            "id": 6,
+            "width": 191,
+            "x": 3091,
+            "y": 2290
+        },
+        {
+            "class": "E.coli",
+            "height": 208,
+            "id": 7,
+            "width": 254,
+            "x": 1779,
+            "y": 3458
+        },
+        {
+            "class": "E.coli",
+            "height": 102,
+            "id": 8,
+            "width": 162,
+            "x": 1284,
+            "y": 3519
+        },
+        {
+            "class": "E.coli",
+            "height": 254,
+            "id": 9,
+            "width": 254,
+            "x": 698,
+            "y": 2900
+        },
+        {
+            "class": "E.coli",
+            "height": 253,
+            "id": 10,
+            "width": 228,
+            "x": 726,
+            "y": 1265
+        },
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 11,
+            "width": 176,
+            "x": 664,
+            "y": 1335
+        }
+    ],
+    "sample_id": 762
+}
