@@ -1,0 +1,18 @@
+{
+    "background": "bright",
+    "classes": [
+        "B.subtilis"
+    ],
+    "colonies_number": 1,
+    "labels": [
+        {
+            "class": "B.subtilis",
+            "height": 37,
+            "id": 1,
+            "width": 37,
+            "x": 2816,
+            "y": 1251
+        }
+    ],
+    "sample_id": 1181
+}

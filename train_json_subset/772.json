@@ -1,0 +1,98 @@
+{
+    "background": "bright",
+    "classes": [
+        "E.coli"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 210,
+            "id": 1,
+            "width": 210,
+            "x": 598,
+            "y": 926
+        },
+        {
+            "class": "E.coli",
+            "height": 254,
+            "id": 2,
+            "width": 254,
+            "x": 2379,
+            "y": 522
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 3,
+            "width": 231,
+            "x": 2264,
+            "y": 1710
+        },
+        {
+            "class": "E.coli",
+            "height": 254,
+            "id": 4,
+            "width": 224,
+            "x": 3140,
+            "y": 1721
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 5,
+            "width": 231,
+            "x": 2983,
+            "y": 2418
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 6,
+            "width": 231,
+            "x": 2903,
+            "y": 2655
+        },
+        {
+            "class": "E.coli",
+            "height": 254,
+            "id": 7,
+            "width": 254,
+            "x": 1768,
+            "y": 3076
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 8,
+            "width": 231,
+            "x": 1270,
+            "y": 2709
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 9,
+            "width": 118,
+            "x": 1876,
+            "y": 2236
+        },
+        {
+            "class": "E.coli",
+            "height": 293,
+            "id": 10,
+            "width": 248,
+            "x": 2192,
+            "y": 1958
+        },
+        {
+            "class": "E.coli",
+            "height": 304,
+            "id": 11,
+            "width": 229,
+            "x": 2017,
+            "y": 2003
+        }
+    ],
+    "sample_id": 772
+}

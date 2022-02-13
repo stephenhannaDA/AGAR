@@ -1,0 +1,42 @@
+{
+    "background": "dark",
+    "classes": [
+        "E.coli"
+    ],
+    "colonies_number": 4,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 303,
+            "id": 1,
+            "width": 303,
+            "x": 671,
+            "y": 1719
+        },
+        {
+            "class": "E.coli",
+            "height": 303,
+            "id": 2,
+            "width": 303,
+            "x": 1288,
+            "y": 1478
+        },
+        {
+            "class": "E.coli",
+            "height": 276,
+            "id": 3,
+            "width": 276,
+            "x": 1807,
+            "y": 3390
+        },
+        {
+            "class": "E.coli",
+            "height": 334,
+            "id": 4,
+            "width": 334,
+            "x": 2715,
+            "y": 1732
+        }
+    ],
+    "sample_id": 7657
+}

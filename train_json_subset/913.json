@@ -1,0 +1,114 @@
+{
+    "background": "bright",
+    "classes": [
+        "B.subtilis"
+    ],
+    "colonies_number": 12,
+    "labels": [
+        {
+            "class": "B.subtilis",
+            "height": 210,
+            "id": 1,
+            "width": 210,
+            "x": 784,
+            "y": 1698
+        },
+        {
+            "class": "B.subtilis",
+            "height": 210,
+            "id": 2,
+            "width": 210,
+            "x": 1269,
+            "y": 1293
+        },
+        {
+            "class": "B.subtilis",
+            "height": 157,
+            "id": 3,
+            "width": 157,
+            "x": 1570,
+            "y": 1086
+        },
+        {
+            "class": "B.subtilis",
+            "height": 190,
+            "id": 4,
+            "width": 190,
+            "x": 1118,
+            "y": 2066
+        },
+        {
+            "class": "B.subtilis",
+            "height": 231,
+            "id": 5,
+            "width": 231,
+            "x": 917,
+            "y": 2607
+        },
+        {
+            "class": "B.subtilis",
+            "height": 254,
+            "id": 6,
+            "width": 254,
+            "x": 1487,
+            "y": 2406
+        },
+        {
+            "class": "B.subtilis",
+            "height": 231,
+            "id": 7,
+            "width": 231,
+            "x": 1897,
+            "y": 2538
+        },
+        {
+            "class": "Defect",
+            "height": 252,
+            "id": 8,
+            "width": 544,
+            "x": 1924,
+            "y": 2805
+        },
+        {
+            "class": "B.subtilis",
+            "height": 210,
+            "id": 9,
+            "width": 210,
+            "x": 2078,
+            "y": 1746
+        },
+        {
+            "class": "B.subtilis",
+            "height": 190,
+            "id": 10,
+            "width": 190,
+            "x": 2118,
+            "y": 1492
+        },
+        {
+            "class": "B.subtilis",
+            "height": 197,
+            "id": 11,
+            "width": 198,
+            "x": 2552,
+            "y": 1304
+        },
+        {
+            "class": "B.subtilis",
+            "height": 198,
+            "id": 12,
+            "width": 197,
+            "x": 2775,
+            "y": 1008
+        },
+        {
+            "class": "B.subtilis",
+            "height": 190,
+            "id": 13,
+            "width": 190,
+            "x": 2328,
+            "y": 1007
+        }
+    ],
+    "sample_id": 914
+}

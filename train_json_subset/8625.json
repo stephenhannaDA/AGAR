@@ -1,0 +1,42 @@
+{
+    "background": "dark",
+    "classes": [
+        "S.aureus"
+    ],
+    "colonies_number": 4,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 76,
+            "id": 1,
+            "width": 76,
+            "x": 696,
+            "y": 1679
+        },
+        {
+            "class": "S.aureus",
+            "height": 76,
+            "id": 2,
+            "width": 76,
+            "x": 1368,
+            "y": 2047
+        },
+        {
+            "class": "S.aureus",
+            "height": 76,
+            "id": 3,
+            "width": 76,
+            "x": 1435,
+            "y": 1961
+        },
+        {
+            "class": "S.aureus",
+            "height": 76,
+            "id": 4,
+            "width": 76,
+            "x": 2392,
+            "y": 1826
+        }
+    ],
+    "sample_id": 8625
+}

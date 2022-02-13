@@ -1,0 +1,34 @@
+{
+    "background": "bright",
+    "classes": [
+        "C.albicans"
+    ],
+    "colonies_number": 1,
+    "labels": [
+        {
+            "class": "Defect",
+            "height": 118,
+            "id": 1,
+            "width": 279,
+            "x": 1303,
+            "y": 743
+        },
+        {
+            "class": "Defect",
+            "height": 50,
+            "id": 2,
+            "width": 50,
+            "x": 1718,
+            "y": 800
+        },
+        {
+            "class": "C.albicans",
+            "height": 31,
+            "id": 3,
+            "width": 31,
+            "x": 1977,
+            "y": 3482
+        }
+    ],
+    "sample_id": 884
+}

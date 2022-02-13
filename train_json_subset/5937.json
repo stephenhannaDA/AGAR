@@ -1,0 +1,98 @@
+{
+    "background": "dark",
+    "classes": [
+        "P.aeruginosa"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 106,
+            "id": 1,
+            "width": 106,
+            "x": 2399,
+            "y": 844
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 156,
+            "id": 2,
+            "width": 156,
+            "x": 1590,
+            "y": 895
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 117,
+            "id": 3,
+            "width": 117,
+            "x": 743,
+            "y": 1088
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 276,
+            "id": 4,
+            "width": 290,
+            "x": 1299,
+            "y": 939
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 304,
+            "id": 5,
+            "width": 304,
+            "x": 1163,
+            "y": 1117
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 304,
+            "id": 6,
+            "width": 304,
+            "x": 1325,
+            "y": 1316
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 207,
+            "id": 7,
+            "width": 207,
+            "x": 1640,
+            "y": 2275
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 106,
+            "id": 8,
+            "width": 106,
+            "x": 1778,
+            "y": 3373
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 156,
+            "id": 9,
+            "width": 156,
+            "x": 1511,
+            "y": 3414
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 96,
+            "id": 10,
+            "width": 96,
+            "x": 2297,
+            "y": 3191
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 96,
+            "id": 11,
+            "width": 96,
+            "x": 3125,
+            "y": 1898
+        }
+    ],
+    "sample_id": 5937
+}

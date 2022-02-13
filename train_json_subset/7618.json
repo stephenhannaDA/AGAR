@@ -1,0 +1,98 @@
+{
+    "background": "dark",
+    "classes": [
+        "S.aureus"
+    ],
+    "colonies_number": 11,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 1,
+            "width": 57,
+            "x": 941,
+            "y": 2662
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 2,
+            "width": 57,
+            "x": 614,
+            "y": 2465
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 3,
+            "width": 57,
+            "x": 1512,
+            "y": 3205
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 4,
+            "width": 57,
+            "x": 1783,
+            "y": 2880
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 5,
+            "width": 57,
+            "x": 2519,
+            "y": 2760
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 6,
+            "width": 57,
+            "x": 2557,
+            "y": 2228
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 7,
+            "width": 57,
+            "x": 2745,
+            "y": 1927
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 8,
+            "width": 57,
+            "x": 2131,
+            "y": 2224
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 9,
+            "width": 57,
+            "x": 3001,
+            "y": 1816
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 10,
+            "width": 57,
+            "x": 1726,
+            "y": 1265
+        },
+        {
+            "class": "S.aureus",
+            "height": 57,
+            "id": 11,
+            "width": 57,
+            "x": 455,
+            "y": 1623
+        }
+    ],
+    "sample_id": 7618
+}

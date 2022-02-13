@@ -1,0 +1,50 @@
+{
+    "background": "bright",
+    "classes": [
+        "P.aeruginosa"
+    ],
+    "colonies_number": 5,
+    "labels": [
+        {
+            "class": "P.aeruginosa",
+            "height": 118,
+            "id": 1,
+            "width": 118,
+            "x": 1650,
+            "y": 1301
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 157,
+            "id": 2,
+            "width": 157,
+            "x": 1853,
+            "y": 675
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 190,
+            "id": 3,
+            "width": 190,
+            "x": 2095,
+            "y": 723
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 97,
+            "id": 4,
+            "width": 97,
+            "x": 3219,
+            "y": 2871
+        },
+        {
+            "class": "P.aeruginosa",
+            "height": 75,
+            "id": 5,
+            "width": 103,
+            "x": 2741,
+            "y": 3362
+        }
+    ],
+    "sample_id": 858
+}

@@ -1,0 +1,34 @@
+{
+    "background": "dark",
+    "classes": [
+        "S.aureus"
+    ],
+    "colonies_number": 3,
+    "labels": [
+        {
+            "class": "S.aureus",
+            "height": 55,
+            "id": 1,
+            "width": 55,
+            "x": 2004,
+            "y": 2692
+        },
+        {
+            "class": "S.aureus",
+            "height": 55,
+            "id": 2,
+            "width": 55,
+            "x": 2676,
+            "y": 2533
+        },
+        {
+            "class": "S.aureus",
+            "height": 55,
+            "id": 3,
+            "width": 55,
+            "x": 2478,
+            "y": 1700
+        }
+    ],
+    "sample_id": 8524
+}

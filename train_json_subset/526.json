@@ -1,0 +1,58 @@
+{
+    "background": "bright",
+    "classes": [
+        "B.subtilis"
+    ],
+    "colonies_number": 6,
+    "labels": [
+        {
+            "class": "B.subtilis",
+            "height": 190,
+            "id": 1,
+            "width": 190,
+            "x": 952,
+            "y": 1529
+        },
+        {
+            "class": "B.subtilis",
+            "height": 210,
+            "id": 2,
+            "width": 210,
+            "x": 1508,
+            "y": 962
+        },
+        {
+            "class": "B.subtilis",
+            "height": 210,
+            "id": 3,
+            "width": 210,
+            "x": 1786,
+            "y": 1180
+        },
+        {
+            "class": "B.subtilis",
+            "height": 254,
+            "id": 4,
+            "width": 254,
+            "x": 2310,
+            "y": 1359
+        },
+        {
+            "class": "B.subtilis",
+            "height": 247,
+            "id": 5,
+            "width": 231,
+            "x": 2037,
+            "y": 2639
+        },
+        {
+            "class": "B.subtilis",
+            "height": 210,
+            "id": 6,
+            "width": 210,
+            "x": 1976,
+            "y": 3373
+        }
+    ],
+    "sample_id": 526
+}

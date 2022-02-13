@@ -1,0 +1,1978 @@
+{
+    "background": "dark",
+    "classes": [
+        "E.coli"
+    ],
+    "colonies_number": 246,
+    "labels": [
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 1,
+            "width": 190,
+            "x": 282,
+            "y": 1985
+        },
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 2,
+            "width": 190,
+            "x": 336,
+            "y": 1859
+        },
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 3,
+            "width": 190,
+            "x": 472,
+            "y": 1594
+        },
+        {
+            "class": "E.coli",
+            "height": 210,
+            "id": 4,
+            "width": 210,
+            "x": 479,
+            "y": 2343
+        },
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 5,
+            "width": 190,
+            "x": 611,
+            "y": 2104
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 6,
+            "width": 173,
+            "x": 774,
+            "y": 2007
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 7,
+            "width": 97,
+            "x": 803,
+            "y": 1823
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 8,
+            "width": 118,
+            "x": 764,
+            "y": 1877
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 9,
+            "width": 118,
+            "x": 877,
+            "y": 1897
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 10,
+            "width": 89,
+            "x": 875,
+            "y": 1825
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 11,
+            "width": 89,
+            "x": 862,
+            "y": 1763
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 12,
+            "width": 130,
+            "x": 785,
+            "y": 1705
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 13,
+            "width": 112,
+            "x": 942,
+            "y": 1765
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 14,
+            "width": 101,
+            "x": 955,
+            "y": 1700
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 15,
+            "width": 130,
+            "x": 926,
+            "y": 1553
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 16,
+            "width": 118,
+            "x": 985,
+            "y": 1460
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 17,
+            "width": 89,
+            "x": 1087,
+            "y": 1597
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 18,
+            "width": 118,
+            "x": 1049,
+            "y": 1720
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 19,
+            "width": 118,
+            "x": 1140,
+            "y": 1660
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 20,
+            "width": 157,
+            "x": 1319,
+            "y": 1706
+        },
+        {
+            "class": "E.coli",
+            "height": 169,
+            "id": 21,
+            "width": 143,
+            "x": 1057,
+            "y": 2092
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 22,
+            "width": 143,
+            "x": 937,
+            "y": 2137
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 23,
+            "width": 157,
+            "x": 1069,
+            "y": 2322
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 24,
+            "width": 130,
+            "x": 1194,
+            "y": 2121
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 25,
+            "width": 130,
+            "x": 1284,
+            "y": 2187
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 26,
+            "width": 97,
+            "x": 1447,
+            "y": 2063
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 27,
+            "width": 130,
+            "x": 1391,
+            "y": 2006
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 28,
+            "width": 97,
+            "x": 1403,
+            "y": 2252
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 29,
+            "width": 118,
+            "x": 1324,
+            "y": 2318
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 30,
+            "width": 89,
+            "x": 1524,
+            "y": 2246
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 31,
+            "width": 89,
+            "x": 1578,
+            "y": 2144
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 32,
+            "width": 97,
+            "x": 1500,
+            "y": 2126
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 33,
+            "width": 60,
+            "x": 1607,
+            "y": 2085
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 34,
+            "width": 60,
+            "x": 1661,
+            "y": 2082
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 35,
+            "width": 92,
+            "x": 1687,
+            "y": 2075
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 36,
+            "width": 108,
+            "x": 1676,
+            "y": 2130
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 37,
+            "width": 157,
+            "x": 1604,
+            "y": 2362
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 38,
+            "width": 89,
+            "x": 1481,
+            "y": 2384
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 39,
+            "width": 138,
+            "x": 1365,
+            "y": 2409
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 40,
+            "width": 146,
+            "x": 1341,
+            "y": 2490
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 41,
+            "width": 114,
+            "x": 1366,
+            "y": 2592
+        },
+        {
+            "class": "E.coli",
+            "height": 198,
+            "id": 42,
+            "width": 190,
+            "x": 1110,
+            "y": 2610
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 43,
+            "width": 129,
+            "x": 1357,
+            "y": 2669
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 44,
+            "width": 153,
+            "x": 1340,
+            "y": 2756
+        },
+        {
+            "class": "E.coli",
+            "height": 144,
+            "id": 45,
+            "width": 130,
+            "x": 1464,
+            "y": 2679
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 46,
+            "width": 173,
+            "x": 1622,
+            "y": 2541
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 47,
+            "width": 173,
+            "x": 1838,
+            "y": 2578
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 48,
+            "width": 143,
+            "x": 1856,
+            "y": 2237
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 49,
+            "width": 143,
+            "x": 1922,
+            "y": 2304
+        },
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 50,
+            "width": 190,
+            "x": 490,
+            "y": 2685
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 51,
+            "width": 194,
+            "x": 601,
+            "y": 2816
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 52,
+            "width": 157,
+            "x": 549,
+            "y": 2927
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 53,
+            "width": 157,
+            "x": 974,
+            "y": 3186
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 54,
+            "width": 143,
+            "x": 1159,
+            "y": 3225
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 55,
+            "width": 149,
+            "x": 1145,
+            "y": 3159
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 56,
+            "width": 164,
+            "x": 1138,
+            "y": 3060
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 57,
+            "width": 173,
+            "x": 1413,
+            "y": 3124
+        },
+        {
+            "class": "E.coli",
+            "height": 210,
+            "id": 58,
+            "width": 210,
+            "x": 1620,
+            "y": 3103
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 59,
+            "width": 190,
+            "x": 1485,
+            "y": 3390
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 60,
+            "width": 157,
+            "x": 1874,
+            "y": 3360
+        },
+        {
+            "class": "E.coli",
+            "height": 210,
+            "id": 61,
+            "width": 210,
+            "x": 1889,
+            "y": 3001
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 62,
+            "width": 231,
+            "x": 2233,
+            "y": 2689
+        },
+        {
+            "class": "E.coli",
+            "height": 231,
+            "id": 63,
+            "width": 231,
+            "x": 2216,
+            "y": 2985
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 64,
+            "width": 194,
+            "x": 2308,
+            "y": 3179
+        },
+        {
+            "class": "E.coli",
+            "height": 170,
+            "id": 65,
+            "width": 130,
+            "x": 2213,
+            "y": 3328
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 66,
+            "width": 130,
+            "x": 2292,
+            "y": 3366
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 67,
+            "width": 123,
+            "x": 2374,
+            "y": 2288
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 68,
+            "width": 140,
+            "x": 2356,
+            "y": 2365
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 69,
+            "width": 143,
+            "x": 2259,
+            "y": 2264
+        },
+        {
+            "class": "E.coli",
+            "height": 190,
+            "id": 70,
+            "width": 190,
+            "x": 2525,
+            "y": 2386
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 71,
+            "width": 143,
+            "x": 2692,
+            "y": 2528
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 72,
+            "width": 143,
+            "x": 2620,
+            "y": 2234
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 73,
+            "width": 130,
+            "x": 2730,
+            "y": 2200
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 74,
+            "width": 130,
+            "x": 2848,
+            "y": 2197
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 75,
+            "width": 157,
+            "x": 2942,
+            "y": 2209
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 76,
+            "width": 130,
+            "x": 3027,
+            "y": 2039
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 77,
+            "width": 157,
+            "x": 3116,
+            "y": 1900
+        },
+        {
+            "class": "E.coli",
+            "height": 149,
+            "id": 78,
+            "width": 107,
+            "x": 3115,
+            "y": 2771
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 79,
+            "width": 183,
+            "x": 3092,
+            "y": 2620
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 80,
+            "width": 198,
+            "x": 3089,
+            "y": 2515
+        },
+        {
+            "class": "E.coli",
+            "height": 151,
+            "id": 81,
+            "width": 130,
+            "x": 3204,
+            "y": 2327
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 82,
+            "width": 73,
+            "x": 3304,
+            "y": 2327
+        },
+        {
+            "class": "E.coli",
+            "height": 112,
+            "id": 83,
+            "width": 73,
+            "x": 3320,
+            "y": 2218
+        },
+        {
+            "class": "E.coli",
+            "height": 123,
+            "id": 84,
+            "width": 80,
+            "x": 3319,
+            "y": 2102
+        },
+        {
+            "class": "E.coli",
+            "height": 150,
+            "id": 85,
+            "width": 107,
+            "x": 3273,
+            "y": 1861
+        },
+        {
+            "class": "E.coli",
+            "height": 162,
+            "id": 86,
+            "width": 118,
+            "x": 3252,
+            "y": 1721
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 87,
+            "width": 157,
+            "x": 3080,
+            "y": 1679
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 88,
+            "width": 173,
+            "x": 3090,
+            "y": 1447
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 89,
+            "width": 118,
+            "x": 3041,
+            "y": 1238
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 90,
+            "width": 157,
+            "x": 2966,
+            "y": 1307
+        },
+        {
+            "class": "E.coli",
+            "height": 176,
+            "id": 91,
+            "width": 143,
+            "x": 2897,
+            "y": 1169
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 92,
+            "width": 118,
+            "x": 2991,
+            "y": 1145
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 93,
+            "width": 130,
+            "x": 2837,
+            "y": 1708
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 94,
+            "width": 157,
+            "x": 2897,
+            "y": 1649
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 95,
+            "width": 130,
+            "x": 2777,
+            "y": 1594
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 96,
+            "width": 118,
+            "x": 2820,
+            "y": 1859
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 97,
+            "width": 118,
+            "x": 2745,
+            "y": 1792
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 98,
+            "width": 130,
+            "x": 2846,
+            "y": 1944
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 99,
+            "width": 107,
+            "x": 2663,
+            "y": 1923
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 100,
+            "width": 107,
+            "x": 2509,
+            "y": 2062
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 101,
+            "width": 130,
+            "x": 2588,
+            "y": 2009
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 102,
+            "width": 143,
+            "x": 2459,
+            "y": 1974
+        },
+        {
+            "class": "E.coli",
+            "height": 45,
+            "id": 103,
+            "width": 133,
+            "x": 2541,
+            "y": 1864
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 104,
+            "width": 110,
+            "x": 2554,
+            "y": 1898
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 105,
+            "width": 133,
+            "x": 2529,
+            "y": 1785
+        },
+        {
+            "class": "E.coli",
+            "height": 112,
+            "id": 106,
+            "width": 97,
+            "x": 2563,
+            "y": 1680
+        },
+        {
+            "class": "E.coli",
+            "height": 138,
+            "id": 107,
+            "width": 107,
+            "x": 2646,
+            "y": 1674
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 108,
+            "width": 123,
+            "x": 2583,
+            "y": 1462
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 109,
+            "width": 144,
+            "x": 2605,
+            "y": 1511
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 110,
+            "width": 149,
+            "x": 2557,
+            "y": 1340
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 111,
+            "width": 181,
+            "x": 2514,
+            "y": 1138
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 112,
+            "width": 130,
+            "x": 1902,
+            "y": 2054
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 113,
+            "width": 97,
+            "x": 1762,
+            "y": 2020
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 114,
+            "width": 97,
+            "x": 1784,
+            "y": 1877
+        },
+        {
+            "class": "E.coli",
+            "height": 109,
+            "id": 115,
+            "width": 97,
+            "x": 1965,
+            "y": 1831
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 116,
+            "width": 107,
+            "x": 2037,
+            "y": 1840
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 117,
+            "width": 111,
+            "x": 2095,
+            "y": 1931
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 118,
+            "width": 97,
+            "x": 2142,
+            "y": 1875
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 119,
+            "width": 143,
+            "x": 2201,
+            "y": 2084
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 120,
+            "width": 118,
+            "x": 2257,
+            "y": 1991
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 121,
+            "width": 107,
+            "x": 2136,
+            "y": 1743
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 122,
+            "width": 118,
+            "x": 2199,
+            "y": 1636
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 123,
+            "width": 97,
+            "x": 2173,
+            "y": 1538
+        },
+        {
+            "class": "E.coli",
+            "height": 115,
+            "id": 124,
+            "width": 97,
+            "x": 2334,
+            "y": 1675
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 125,
+            "width": 107,
+            "x": 2413,
+            "y": 1666
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 126,
+            "width": 107,
+            "x": 2453,
+            "y": 1588
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 127,
+            "width": 99,
+            "x": 2239,
+            "y": 1364
+        },
+        {
+            "class": "E.coli",
+            "height": 132,
+            "id": 128,
+            "width": 97,
+            "x": 2147,
+            "y": 1378
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 129,
+            "width": 73,
+            "x": 2246,
+            "y": 1432
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 130,
+            "width": 118,
+            "x": 2267,
+            "y": 1421
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 131,
+            "width": 118,
+            "x": 2324,
+            "y": 1450
+        },
+        {
+            "class": "E.coli",
+            "height": 132,
+            "id": 132,
+            "width": 137,
+            "x": 2254,
+            "y": 1256
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 133,
+            "width": 157,
+            "x": 2277,
+            "y": 988
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 134,
+            "width": 157,
+            "x": 2412,
+            "y": 812
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 135,
+            "width": 105,
+            "x": 2495,
+            "y": 713
+        },
+        {
+            "class": "E.coli",
+            "height": 121,
+            "id": 136,
+            "width": 107,
+            "x": 2602,
+            "y": 804
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 137,
+            "width": 130,
+            "x": 2680,
+            "y": 839
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 138,
+            "width": 143,
+            "x": 2530,
+            "y": 883
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 139,
+            "width": 147,
+            "x": 2020,
+            "y": 574
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 140,
+            "width": 143,
+            "x": 2108,
+            "y": 730
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 141,
+            "width": 143,
+            "x": 2203,
+            "y": 781
+        },
+        {
+            "class": "E.coli",
+            "height": 145,
+            "id": 142,
+            "width": 107,
+            "x": 1979,
+            "y": 929
+        },
+        {
+            "class": "E.coli",
+            "height": 153,
+            "id": 143,
+            "width": 130,
+            "x": 2062,
+            "y": 938
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 144,
+            "width": 97,
+            "x": 1803,
+            "y": 939
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 145,
+            "width": 173,
+            "x": 1840,
+            "y": 680
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 146,
+            "width": 145,
+            "x": 1833,
+            "y": 526
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 147,
+            "width": 145,
+            "x": 1715,
+            "y": 529
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 148,
+            "width": 130,
+            "x": 1648,
+            "y": 771
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 149,
+            "width": 89,
+            "x": 1742,
+            "y": 844
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 150,
+            "width": 89,
+            "x": 1703,
+            "y": 900
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 151,
+            "width": 66,
+            "x": 1709,
+            "y": 990
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 152,
+            "width": 73,
+            "x": 1708,
+            "y": 1056
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 153,
+            "width": 97,
+            "x": 1766,
+            "y": 1047
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 154,
+            "width": 80,
+            "x": 1853,
+            "y": 1022
+        },
+        {
+            "class": "E.coli",
+            "height": 129,
+            "id": 155,
+            "width": 118,
+            "x": 1878,
+            "y": 963
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 156,
+            "width": 130,
+            "x": 1489,
+            "y": 778
+        },
+        {
+            "class": "E.coli",
+            "height": 173,
+            "id": 157,
+            "width": 173,
+            "x": 1372,
+            "y": 644
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 158,
+            "width": 80,
+            "x": 1504,
+            "y": 960
+        },
+        {
+            "class": "E.coli",
+            "height": 50,
+            "id": 159,
+            "width": 50,
+            "x": 1640,
+            "y": 1006
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 160,
+            "width": 76,
+            "x": 1618,
+            "y": 952
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 161,
+            "width": 66,
+            "x": 1651,
+            "y": 1039
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 162,
+            "width": 60,
+            "x": 1604,
+            "y": 1037
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 163,
+            "width": 66,
+            "x": 1577,
+            "y": 1011
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 164,
+            "width": 60,
+            "x": 1570,
+            "y": 1064
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 165,
+            "width": 97,
+            "x": 1706,
+            "y": 1156
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 166,
+            "width": 107,
+            "x": 1898,
+            "y": 1205
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 167,
+            "width": 80,
+            "x": 1966,
+            "y": 1247
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 168,
+            "width": 118,
+            "x": 2028,
+            "y": 1220
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 169,
+            "width": 94,
+            "x": 2005,
+            "y": 1324
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 170,
+            "width": 89,
+            "x": 1799,
+            "y": 1301
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 171,
+            "width": 89,
+            "x": 1748,
+            "y": 1338
+        },
+        {
+            "class": "E.coli",
+            "height": 94,
+            "id": 172,
+            "width": 89,
+            "x": 1859,
+            "y": 1345
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 173,
+            "width": 107,
+            "x": 1916,
+            "y": 1355
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 174,
+            "width": 97,
+            "x": 1841,
+            "y": 1426
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 175,
+            "width": 94,
+            "x": 1971,
+            "y": 1466
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 176,
+            "width": 86,
+            "x": 1991,
+            "y": 1419
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 177,
+            "width": 91,
+            "x": 2016,
+            "y": 1508
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 178,
+            "width": 107,
+            "x": 1957,
+            "y": 1620
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 179,
+            "width": 118,
+            "x": 1837,
+            "y": 1702
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 180,
+            "width": 97,
+            "x": 1754,
+            "y": 1791
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 181,
+            "width": 66,
+            "x": 1698,
+            "y": 1881
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 182,
+            "width": 97,
+            "x": 1632,
+            "y": 1782
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 183,
+            "width": 94,
+            "x": 1645,
+            "y": 1695
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 184,
+            "width": 89,
+            "x": 1638,
+            "y": 1606
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 185,
+            "width": 89,
+            "x": 1692,
+            "y": 1562
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 186,
+            "width": 107,
+            "x": 1662,
+            "y": 1438
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 187,
+            "width": 80,
+            "x": 1642,
+            "y": 1921
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 188,
+            "width": 80,
+            "x": 1653,
+            "y": 1993
+        },
+        {
+            "class": "E.coli",
+            "height": 103,
+            "id": 189,
+            "width": 89,
+            "x": 1571,
+            "y": 1900
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 190,
+            "width": 94,
+            "x": 1508,
+            "y": 1626
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 191,
+            "width": 96,
+            "x": 1528,
+            "y": 1684
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 192,
+            "width": 89,
+            "x": 1499,
+            "y": 1536
+        },
+        {
+            "class": "E.coli",
+            "height": 97,
+            "id": 193,
+            "width": 97,
+            "x": 1415,
+            "y": 1561
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 194,
+            "width": 66,
+            "x": 1601,
+            "y": 1201
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 195,
+            "width": 73,
+            "x": 1636,
+            "y": 1244
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 196,
+            "width": 55,
+            "x": 1478,
+            "y": 1168
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 197,
+            "width": 55,
+            "x": 1426,
+            "y": 1124
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 198,
+            "width": 80,
+            "x": 1391,
+            "y": 1137
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 199,
+            "width": 60,
+            "x": 1466,
+            "y": 1099
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 200,
+            "width": 60,
+            "x": 1509,
+            "y": 1071
+        },
+        {
+            "class": "E.coli",
+            "height": 86,
+            "id": 201,
+            "width": 55,
+            "x": 1523,
+            "y": 1120
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 202,
+            "width": 66,
+            "x": 1555,
+            "y": 1116
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 203,
+            "width": 73,
+            "x": 1569,
+            "y": 1147
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 204,
+            "width": 130,
+            "x": 1425,
+            "y": 949
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 205,
+            "width": 144,
+            "x": 1182,
+            "y": 649
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 206,
+            "width": 90,
+            "x": 1141,
+            "y": 978
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 207,
+            "width": 80,
+            "x": 1177,
+            "y": 1010
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 208,
+            "width": 143,
+            "x": 1216,
+            "y": 941
+        },
+        {
+            "class": "E.coli",
+            "height": 130,
+            "id": 209,
+            "width": 130,
+            "x": 1138,
+            "y": 842
+        },
+        {
+            "class": "E.coli",
+            "height": 104,
+            "id": 210,
+            "width": 89,
+            "x": 1080,
+            "y": 910
+        },
+        {
+            "class": "E.coli",
+            "height": 107,
+            "id": 211,
+            "width": 107,
+            "x": 983,
+            "y": 961
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 212,
+            "width": 118,
+            "x": 905,
+            "y": 885
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 213,
+            "width": 118,
+            "x": 868,
+            "y": 962
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 214,
+            "width": 143,
+            "x": 1049,
+            "y": 1062
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 215,
+            "width": 99,
+            "x": 1185,
+            "y": 1126
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 216,
+            "width": 104,
+            "x": 1180,
+            "y": 1183
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 217,
+            "width": 66,
+            "x": 1235,
+            "y": 1283
+        },
+        {
+            "class": "E.coli",
+            "height": 157,
+            "id": 218,
+            "width": 157,
+            "x": 1030,
+            "y": 1245
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 219,
+            "width": 80,
+            "x": 1383,
+            "y": 1242
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 220,
+            "width": 60,
+            "x": 1461,
+            "y": 1253
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 221,
+            "width": 89,
+            "x": 1494,
+            "y": 1276
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 222,
+            "width": 80,
+            "x": 1523,
+            "y": 1330
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 223,
+            "width": 60,
+            "x": 1177,
+            "y": 1425
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 224,
+            "width": 66,
+            "x": 1132,
+            "y": 1407
+        },
+        {
+            "class": "E.coli",
+            "height": 89,
+            "id": 225,
+            "width": 89,
+            "x": 1080,
+            "y": 1420
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 226,
+            "width": 88,
+            "x": 1136,
+            "y": 1487
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 227,
+            "width": 60,
+            "x": 1206,
+            "y": 1460
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 228,
+            "width": 118,
+            "x": 705,
+            "y": 1104
+        },
+        {
+            "class": "E.coli",
+            "height": 118,
+            "id": 229,
+            "width": 118,
+            "x": 720,
+            "y": 999
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 230,
+            "width": 143,
+            "x": 799,
+            "y": 1045
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 231,
+            "width": 143,
+            "x": 641,
+            "y": 1138
+        },
+        {
+            "class": "E.coli",
+            "height": 143,
+            "id": 232,
+            "width": 143,
+            "x": 570,
+            "y": 1101
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 233,
+            "width": 55,
+            "x": 1310,
+            "y": 1348
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 234,
+            "width": 60,
+            "x": 1341,
+            "y": 1322
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 235,
+            "width": 55,
+            "x": 1459,
+            "y": 1342
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 236,
+            "width": 55,
+            "x": 1458,
+            "y": 1394
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 237,
+            "width": 73,
+            "x": 1403,
+            "y": 1332
+        },
+        {
+            "class": "E.coli",
+            "height": 80,
+            "id": 238,
+            "width": 80,
+            "x": 1381,
+            "y": 1400
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 239,
+            "width": 66,
+            "x": 1443,
+            "y": 1455
+        },
+        {
+            "class": "E.coli",
+            "height": 50,
+            "id": 240,
+            "width": 50,
+            "x": 1312,
+            "y": 1398
+        },
+        {
+            "class": "E.coli",
+            "height": 66,
+            "id": 241,
+            "width": 66,
+            "x": 1223,
+            "y": 1357
+        },
+        {
+            "class": "E.coli",
+            "height": 50,
+            "id": 242,
+            "width": 50,
+            "x": 1275,
+            "y": 1386
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 243,
+            "width": 55,
+            "x": 1248,
+            "y": 1407
+        },
+        {
+            "class": "E.coli",
+            "height": 55,
+            "id": 244,
+            "width": 55,
+            "x": 1239,
+            "y": 1448
+        },
+        {
+            "class": "E.coli",
+            "height": 73,
+            "id": 245,
+            "width": 50,
+            "x": 1281,
+            "y": 1438
+        },
+        {
+            "class": "E.coli",
+            "height": 60,
+            "id": 246,
+            "width": 60,
+            "x": 1317,
+            "y": 1443
+        }
+    ],
+    "sample_id": 4890
+}

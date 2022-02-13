@@ -1,0 +1,26 @@
+{
+    "background": "bright",
+    "classes": [
+        "C.albicans"
+    ],
+    "colonies_number": 2,
+    "labels": [
+        {
+            "class": "C.albicans",
+            "height": 36,
+            "id": 1,
+            "width": 38,
+            "x": 1508,
+            "y": 2370
+        },
+        {
+            "class": "C.albicans",
+            "height": 34,
+            "id": 2,
+            "width": 34,
+            "x": 1461,
+            "y": 2428
+        }
+    ],
+    "sample_id": 564
+}
